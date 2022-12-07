@@ -1,0 +1,139 @@
+#title {
+  background-color: #7ABCF9;
+}
+
+#titleabout {
+  background-color: #C9E3B4;
+}
+
+#titlework {
+  background-color: #FF7E98;
+}
+
+
+#titlecontact {
+  background-color: #9A6EEB;
+}
+.container-fluid {
+  padding: 3% 15%;
+}
+
+h1{
+  font-family: 'Nunito', sans-serif;
+  font-size: 3rem;
+  line-height:1.5;
+  font-weight: bold;
+  color: white;
+}
+
+h2{
+  color: white;
+  font-family: 'Nunito';
+  font-size: 1.5;
+  font-weight: bold;
+}
+h3{
+  font-family: 'Nunito';
+  font-weight: bold;
+}
+
+p{
+  color: grey;
+}
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Tajawal', sans-serif;
+  font-size: 2.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: 'Nunito';
+  font-size: 1.2rem;
+}
+
+.title-image{
+ width: 120%;
+}
+
+
+#features {
+  padding: 7% 15%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.labimage{
+  width: 90%;
+}
+
+#meimage{
+  width:125%;
+}
+
+a:link{
+  color: black;
+}
+
+a:hover{
+  color: black;
+  cursor: grab;
+}
+
+a:visited{
+  color: black;
+}
+
+#bootstrap{
+  background-color: #FF7E98;
+}
+
+.social-icon{
+  margin: 20px 20px 20px 150px;
+}
+
+ul{
+  list-style-type: none;
+}
+
+.contact{
+  font-size: 30px;
+}
+
+.icon{
+  color: #7ABCF9;
+  margin-bottom:1rem;
+}
+
+.icon:hover {
+  color: wheat;
+}
+
+
+
+#footer{
+  padding: 7%,15%;
+  text-align: center;
+}
+
+
+
+@media (max-width:1028px){
+  #title{
+    text-align: center;
+  }
+  .title-image{
+    position:static;
+    transform: rotate(0deg);
+  }
+}

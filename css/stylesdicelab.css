@@ -1,0 +1,58 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+.bgcolor{
+  background-color: #809abd;
+}
+
+body {
+  background-color: black;
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  margin: 30px;
+  text-shadow: 5px 0 #9399a0;
+  font-size: 2rem;
+  font-weight: 500;
+  color: #000000;
+}
+
+h2, h3 {
+  margin: 30px;
+  font-size: 1rem;
+  font-weight: 300;
+  color: #000000;
+}
+
+p {
+  color: #000000;
+}
+
+img {
+  width: 80%;
+  background-color: #01b60a;
+  border-radius: 30%;
+  mix-blend-mode: hard-light;
+}
+
+
+.myBtn {
+  margin: 30px;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
